@@ -14,6 +14,10 @@
 <display>false</display>
 <notation>1</notation>
 <objectViews>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="3908C489-FA2E-F286-1651-70E0AEE9E659" otype="Entity" vid="F044C0F1-6E65-AD33-2990-D8CD973D43F1">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="298" y="57" width="110" height="92"/>
+</OView>
 <OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="3CE7C18E-2307-7FEF-2970-2E8C4878C296" otype="Entity" vid="8B748A85-28F6-7AA5-DF8D-997C8D057E2A">
 <hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
 <bounds x="67" y="49" width="135" height="109"/>
